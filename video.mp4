@@ -1,0 +1,28 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+
+		<tittle>Video Html</title>
+	</head>
+	
+	<body>
+
+		<header>Lessons at Comprehensive IT Training</header>
+			
+			<h1>video 1 html</h1>
+		
+			<video controls autoplay>
+			
+				<source src="video html.mp4">
+				<source src="video html.ogg">
+					<embeded src="video html.mp4"></embeded>
+		
+			video is not supported by your browser
+
+			</video>
+
+		
+
+	</body>
+</html>
